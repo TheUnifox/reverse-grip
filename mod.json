@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "reversegrip",
+    "id": "reversegrip",
+    "author": "Unifox(He/Him)#5654",
+    "version": "0.0.1",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.24.0",
+    "description": "Only use darthmaul or this one at a time, either can be disabled in game. i got bored (again)",
+    "modFiles": [
+        "libreversegrip.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_3_12_0.so"
+    ]
+}
